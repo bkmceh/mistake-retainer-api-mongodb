@@ -2,4 +2,4 @@
 
 ## REST API for Mistake Retainer app.
 
-Save data using MongoDB 
+Get requests from client and save data into DB using MongoDB 
